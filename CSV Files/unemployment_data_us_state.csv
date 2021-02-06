@@ -1,0 +1,157 @@
+State,Month,Unemployment_Rate,Date
+Alabama,Jan,2.7,Jan-20
+Alaska,Jan,6,Jan-20
+Arizona,Jan,4.5,Jan-20
+Arkansas,Jan,3.5,Jan-20
+California,Jan,3.9,Jan-20
+Colorado,Jan,2.5,Jan-20
+Connecticut,Jan,3.7,Jan-20
+Delaware,Jan,4,Jan-20
+D.C.,Jan,5.2,Jan-20
+Florida,Jan,2.8,Jan-20
+Georgia,Jan,3.1,Jan-20
+Hawaii,Jan,2.7,Jan-20
+Idaho,Jan,2.8,Jan-20
+Illinois,Jan,3.5,Jan-20
+Indiana,Jan,3.1,Jan-20
+Iowa,Jan,2.8,Jan-20
+Kansas,Jan,3.1,Jan-20
+Kentucky,Jan,4.3,Jan-20
+Louisiana,Jan,5.1,Jan-20
+Maine,Jan,3.1,Jan-20
+Maryland,Jan,3.3,Jan-20
+Massachusetts,Jan,2.8,Jan-20
+Michigan,Jan,3.8,Jan-20
+Minnesota,Jan,3.2,Jan-20
+Mississippi,Jan,5.5,Jan-20
+Missouri,Jan,3.5,Jan-20
+Montana,Jan,3.5,Jan-20
+Nebraska,Jan,3.9,Jan-20
+Nevada,Jan,3.6,Jan-20
+New Hampshire,Jan,2.6,Jan-20
+New Jersey,Jan,3.8,Jan-20
+New Mexico,Jan,4.8,Jan-20
+New York,Jan,3.8,Jan-20
+North Carolina,Jan,3.6,Jan-20
+North Dakota,Jan,2.3,Jan-20
+Ohio,Jan,4.1,Jan-20
+Oklahoma,Jan,3.3,Jan-20
+Oregon,Jan,3.3,Jan-20
+Pennsylvania,Jan,4.7,Jan-20
+Rhode Island,Jan,3.1,Jan-20
+South Carolina,Jan,2.4,Jan-20
+South Dakota,Jan,3.4,Jan-20
+Tennessee,Jan,3.3,Jan-20
+Texas,Jan,4.5,Jan-20
+Utah,Jan,2.5,Jan-20
+Vermont,Jan,2.4,Jan-20
+Virginia,Jan,2.7,Jan-20
+Washington,Jan,3.9,Jan-20
+West Virginia,Jan,5,Jan-20
+Wisconsin,Jan,3.5,Jan-20
+Wyoming,Jan,3.7,Jan-20
+Puerto Rico,Jan,8.9,Jan-20
+Alabama,Feb,2.7,Feb-20
+Alaska,Feb,5.8,Feb-20
+Arizona,Feb,4.5,Feb-20
+Arkansas,Feb,3.9,Feb-20
+California,Feb,2.5,Feb-20
+Colorado,Feb,2.8,Feb-20
+Connecticut,Feb,3.9,Feb-20
+Delaware,Feb,5.2,Feb-20
+D.C.,Feb,2.8,Feb-20
+Florida,Feb,3.1,Feb-20
+Georgia,Feb,2.7,Feb-20
+Hawaii,Feb,2.7,Feb-20
+Idaho,Feb,3.4,Feb-20
+Illinois,Feb,3.1,Feb-20
+Indiana,Feb,2.8,Feb-20
+Iowa,Feb,3.1,Feb-20
+Kansas,Feb,4.2,Feb-20
+Kentucky,Feb,5.2,Feb-20
+Louisiana,Feb,3.2,Feb-20
+Maine,Feb,3.3,Feb-20
+Maryland,Feb,2.8,Feb-20
+Massachusetts,Feb,3.6,Feb-20
+Michigan,Feb,3.1,Feb-20
+Minnesota,Feb,5.4,Feb-20
+Mississippi,Feb,3.5,Feb-20
+Missouri,Feb,3.5,Feb-20
+Montana,Feb,2.9,Feb-20
+Nebraska,Feb,3.6,Feb-20
+Nevada,Feb,3.6,Feb-20
+New Hampshire,Feb,3.8,Feb-20
+New Jersey,Feb,4.8,Feb-20
+New Mexico,Feb,3.7,Feb-20
+New York,Feb,3.6,Feb-20
+North Carolina,Feb,2.2,Feb-20
+North Dakota,Feb,4.2,Feb-20
+Ohio,Feb,3.2,Feb-20
+Oklahoma,Feb,3.3,Feb-20
+Oregon,Feb,4.7,Feb-20
+Pennsylvania,Feb,3.4,Feb-20
+Rhode Island,Feb,2.5,Feb-20
+South Carolina,Feb,3.3,Feb-20
+South Dakota,Feb,3.4,Feb-20
+Tennessee,Feb,3.5,Feb-20
+Texas,Feb,2.5,Feb-20
+Utah,Feb,3.4,Feb-20
+Vermont,Feb,2.6,Feb-20
+Virginia,Feb,3.8,Feb-20
+Washington,Feb,4.9,Feb-20
+West Virginia,Feb,3.7,Feb-20
+Wisconsin,Feb,2.7,Feb-20
+Wyoming,Feb,5.8,Feb-20
+Puerto Rico,Feb,4.5,Feb-20
+Alabama,Mar,3.5,Mar-20
+Alaska,Mar,5.6,Mar-20
+Arizona,Mar,5.5,Mar-20
+Arkansas,Mar,4.8,Mar-20
+California,Mar,5.3,Mar-20
+Colorado,Mar,4.5,Mar-20
+Connecticut,Mar,3.7,Mar-20
+Delaware,Mar,5.1,Mar-20
+D.C.,Mar,6,Mar-20
+Florida,Mar,4.3,Mar-20
+Georgia,Mar,4.2,Mar-20
+Hawaii,Mar,2.6,Mar-20
+Idaho,Mar,2.6,Mar-20
+Illinois,Mar,4.6,Mar-20
+Indiana,Mar,3.2,Mar-20
+Iowa,Mar,3.7,Mar-20
+Kansas,Mar,3.1,Mar-20
+Kentucky,Mar,5.8,Mar-20
+Louisiana,Mar,6.1,Mar-20
+Maine,Mar,3.2,Mar-20
+Maryland,Mar,3.3,Mar-20
+Massachusetts,Mar,2.9,Mar-20
+Michigan,Mar,4.1,Mar-20
+Minnesota,Mar,3.1,Mar-20
+Mississippi,Mar,5.3,Mar-20
+Missouri,Mar,4.5,Mar-20
+Montana,Mar,3.5,Mar-20
+Nebraska,Mar,4.2,Mar-20
+Nevada,Mar,6.3,Mar-20
+New Hampshire,Mar,2.6,Mar-20
+New Jersey,Mar,3.8,Mar-20
+New Mexico,Mar,5.9,Mar-20
+New York,Mar,4.5,Mar-20
+North Carolina,Mar,4.4,Mar-20
+North Dakota,Mar,2.2,Mar-20
+Ohio,Mar,5.5,Mar-20
+Oklahoma,Mar,3.1,Mar-20
+Oregon,Mar,3.3,Mar-20
+Pennsylvania,Mar,6,Mar-20
+Rhode Island,Mar,4.6,Mar-20
+South Carolina,Mar,2.6,Mar-20
+South Dakota,Mar,3.3,Mar-20
+Tennessee,Mar,3.5,Mar-20
+Texas,Mar,4.7,Mar-20
+Utah,Mar,3.6,Mar-20
+Vermont,Mar,3.2,Mar-20
+Virginia,Mar,3.3,Mar-20
+Washington,Mar,5.1,Mar-20
+West Virginia,Mar,6.1,Mar-20
+Wisconsin,Mar,3.4,Mar-20
+Wyoming,Mar,3.7,Mar-20
+Puerto Rico,Mar,,Mar-20
